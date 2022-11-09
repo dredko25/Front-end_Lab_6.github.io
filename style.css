@@ -1,0 +1,35 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    border: 0px;
+}
+body{
+    height: 100%;
+    line-height: 1;
+    font-size: 24px;
+    background-color: #f2ddcc;
+}
+.container{
+    width: 100%;
+    height: 800px;
+    padding-top: 100px;
+    margin: 0px auto;
+}
+.button{
+    text-align: center;
+}
+.download{
+    width: 200px;
+    height: 80px;
+    font-size: 32px;
+    font-weight: bold;
+    background-color: #767455;
+    border-radius: 15px;
+}
+.content{
+    width: 90%;
+    margin: 0px auto;
+    margin-top: 40px;
+    display: flex;
+    flex-wrap: wrap;
+}
